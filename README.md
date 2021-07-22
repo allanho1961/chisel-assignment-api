@@ -37,7 +37,7 @@ From the code directory, run the following command:
 
 ## How to run this program
 
-> # nodemon restarts automatically during code development process
+> ### nodemon restarts automatically during code development process
 > nodemon index.js
 or
 > node index.js
