@@ -1,0 +1,15 @@
+{
+  "name": "chisel-assignment-api",
+  "version": "1.0.0",
+  "description": "Chisel AI Engineering Assignment - API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Holbrook",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "redux-thunk": "2.3.0"
+  }
+}
